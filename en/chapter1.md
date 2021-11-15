@@ -1,6 +1,6 @@
 # Introduction
 
-> Source: https://leanprover.github.io/logic_and_proof/introduction.html  
+> Source: <https://leanprover.github.io/logic_and_proof/introduction.html>  
 > Licensed under Apache 2.0
 
 

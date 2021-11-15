@@ -1,6 +1,6 @@
 # 介绍
 
-> 英文原文地址：https://leanprover.github.io/logic_and_proof/introduction.html  
+> 英文原文地址：<https://leanprover.github.io/logic_and_proof/introduction.html>  
 > 授权于 Apache 2.0 协议
 
 ## 数学证明
