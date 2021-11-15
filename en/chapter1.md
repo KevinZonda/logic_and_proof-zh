@@ -35,7 +35,7 @@ A natural number $n$ greater than or equal to 2 is said to be *composite* if it 
 
 **Theorem.** Every natural number greater than or equal to 2 can be written as a product of primes.
 
-**Proof.** We proceed by induction on $n$. Let $n$ be any natural number greater than 2. If $n$ is prime, we are done; we can consider $n$ itself as a product with one term. Otherwise, $n$ is composite, and we can write $n=m\cdot k$ where $m$ and $k$ are smaller than $n$ and greater than 1. By the inductive hypothesis, each of m and k can be written as a product of primes, say $m=p_1\cdot p_2\cdot \cdots \cdot p_u$ and $k=q_1\cdot q_2\cdot \codts \cdot q_v$. But then we have
+**Proof.** We proceed by induction on $n$. Let $n$ be any natural number greater than 2. If $n$ is prime, we are done; we can consider $n$ itself as a product with one term. Otherwise, $n$ is composite, and we can write $n=m\cdot k$ where $m$ and $k$ are smaller than $n$ and greater than 1. By the inductive hypothesis, each of m and k can be written as a product of primes, say $m=p_1\cdot p_2\cdot \cdots \cdot p_u$ and $k=q_1\cdot q_2\cdot \cdots \cdot q_v$. But then we have
 
 $$
 n=m\cdot k=p_1 \cdot p_2\cdot \cdots \cdot p_u \cdot q_1 \cdot q_2\cdot \cdots \cdot q_v,
