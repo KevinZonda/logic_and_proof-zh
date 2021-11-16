@@ -10,11 +10,11 @@ Logic and Proof 的中文译本。
 
 - [ ] 1. 介绍/Introduction
   - [x] 1.1. 数学证明/Mathematical Proof
-  - [ ] 1.2. Symbolic Logic
+  - [x] 1.2. 符号逻辑/Symbolic Logic
   - [ ] 1.3. Interactive Theorem Proving
   - [ ] 1.4. The Semantic Point of View
   - [ ] 1.5. Goals Summarized
-  - [ ] 1.6. About this Textbook
+  - [ ] 1.6. 关于这本教科书/About this Textbook
 - [ ] 2. Propositional Logic
   - [ ] 2.1. A Puzzle
   - [ ] 2.2. A Solution
